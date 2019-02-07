@@ -1,0 +1,1 @@
+<script type="text/javascript">if(confirm("Registraion Successful!")) document.location = '/';</script>
